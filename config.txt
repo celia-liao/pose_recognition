@@ -1,0 +1,6 @@
+side_neck_threshold=36.0
+side_torso_threshold=12.0
+warning_time=4.0
+sitting_minutes=1
+resolution=480x360
+skip_frames=6
